@@ -1,0 +1,9 @@
+C:\Users\ASK\Desktop\New folder\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\ASK\Desktop\New folder\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\ASK\Desktop\New folder\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\ASK\Desktop\New folder\VideoPlayer\obj\Debug\PlayVideoWithVLC.csprojResolveAssemblyReference.cache
+C:\Users\ASK\Desktop\New folder\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\ASK\Desktop\New folder\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\ASK\Desktop\New folder\VideoPlayer\obj\Debug\PlayVideoWithVLC.csproj.GenerateResource.Cache
+C:\Users\ASK\Desktop\New folder\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\ASK\Desktop\New folder\VideoPlayer\obj\Debug\VideoPlayer.pdb
